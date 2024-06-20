@@ -1,0 +1,249 @@
+[1/3] index.qmd
+[trace] Parsed [Plain [Str "long"]] at line 1
+[trace] Parsed [Plain [Str "en"]] at line 1
+[trace] Parsed [Plain [Str "5th-Year",Space,Str "Reaffirmation"]] at line 1
+[trace] Parsed [Para [Str "=1.4.0"]] at line 3
+[trace] Parsed [BlockQuote [Para [Str "=1.4.0"]]] at line 1
+[trace] Parsed [Plain [Str "true"]] at line 1
+[trace] Parsed [Plain [Str "1.4.553"]] at line 1
+[trace] Parsed [Plain [Str "On",Space,Str "this",Space,Str "page"]] at line 1
+[trace] Parsed [Header 1 ("welcome",["unnumbered","unlisted"],[]) [Str "Wel at line 3
+[trace] Parsed [Para [Str "HCC's",Space,Str "SACSCOC",Space,Str "5th-Year", at line 5
+[trace] Parsed [Para [Str "Welcome",Space,Str "to",Space,Str "Haywood",Spac at line 17
+[trace] Parsed [Para [Span ("",["hidden"],[("render-id","quarto-int-sidebar at line 29
+[trace] Parsed [Para [Str "College",Space,Str "Home",Space,Str "Page"]] at line 31
+[trace] Parsed [Div ("",["hidden"],[("render-id","footer-left-https://www.c at line 33
+[trace] Parsed [Div ("quarto-navigation-envelope",["hidden"],[]) [Para [Spa at line 37
+[trace] Parsed [Para [Span ("",["hidden"],[("render-id","quarto-metatitle") at line 44
+[trace] Parsed [Div ("quarto-meta-markdown",["hidden"],[]) [Para [Span ("", at line 48
+[2/3] requirements.qmd
+[trace] Parsed [Plain [Str "long"]] at line 1
+[trace] Parsed [Plain [Str "en"]] at line 1
+[trace] Parsed [Para [Str "=1.4.0"]] at line 3
+[trace] Parsed [BlockQuote [Para [Str "=1.4.0"]]] at line 1
+[trace] Parsed [Plain [Str "true"]] at line 1
+[trace] Parsed [Plain [Str "1.4.553"]] at line 1
+[trace] Parsed [Plain [Str "On",Space,Str "this",Space,Str "page"]] at line 1
+[trace] Parsed [Header 1 ("fifth-year-compliance-certification",[],[]) [Str at line 3
+[trace] Parsed [Header 3 ("section-5.-administration-and-organization",[],[ at line 5
+[trace] Parsed [Para [Span ("",[],[("custom-style","Link to Standard")]) [S at line 11
+[trace] Parsed [Para [Span ("",["hidden"],[("render-id","quarto-int-sidebar at line 23
+[trace] Parsed [Para [Str "College",Space,Str "Home",Space,Str "Page"]] at line 25
+[trace] Parsed [Div ("",["hidden"],[("render-id","footer-left-https://www.c at line 27
+[trace] Parsed [Div ("quarto-navigation-envelope",["hidden"],[]) [Para [Spa at line 31
+[trace] Parsed [Para [Span ("",["hidden"],[("render-id","quarto-metatitle") at line 38
+[trace] Parsed [Div ("quarto-meta-markdown",["hidden"],[]) [Para [Span ("", at line 42
+(D) accreditation: [link_standard_style]: Link to Standards
+(D) accreditation: [link_standard_style]:     ...quarto.project.directory: C:/tmp/CR_TEST/quarto_error_2406
+(D) accreditation: [link_standard_style]:     ...quarto.doc.input_file: C:/tmp/CR_TEST/quarto_error_2406
+(D) accreditation: [link_standard_style]:     ...loc_standards_path: [requirements/]
+(D) accreditation: [link_standard_style]:     ...evidence_txt_orig: [Standard 05.4]
+(D) accreditation: [link_standard_style]:     ...evidence_txt: Standard 05.4 -   -  Standard 05.4
+(D) accreditation: [make_link]:     ...parms: [requirements/] - [Standard 05.4.html] - [] - [Standard 05.4]
+(D) accreditation: [make_link]:     ...rtn_str: <a href="requirements/Standard 05.4.html"  >Standard 05.4</a>
+(D) accreditation: [link_standard_style]:     ...rtn_str: <a href="requirements/Standard 05.4.html"  >Standard 05.4</a>
+[3/3] requirements\Standard 05.4.qmd
+[trace] Parsed [Plain [Str "long"]] at line 1
+[trace] Parsed [Plain [Str "en"]] at line 1
+[trace] Parsed [Para [Str "=1.4.0"]] at line 3
+[trace] Parsed [BlockQuote [Para [Str "=1.4.0"]]] at line 1
+[trace] Parsed [Plain [Str "true"]] at line 1
+[trace] Parsed [Plain [Str "1.4.553"]] at line 1
+[trace] Parsed [Plain [Str "On",Space,Str "this",Space,Str "page"]] at line 1
+[trace] Parsed [Header 1 ("standard-5.4",[],[]) [Str "Standard",Space,Str " at line 3
+[trace] Parsed [Para [Str "Qualified",Space,Str "Administrative/Academic",S at line 5
+[trace] Parsed [Div ("",[],[("custom-style","Subtitle")]) [Para [Str "Quali at line 7
+[trace] Parsed [Para [Str "The",Space,Str "institution",Space,Str "employs" at line 11
+[trace] Parsed [Div ("",[],[("custom-style","Abstract")]) [Para [Str "The", at line 13
+[trace] Parsed [Header 2 ("judgment",[],[]) [Str "Judgment"]] at line 15
+[trace] Parsed [Para [Span ("",[],[("custom-style","Judgment")]) [Str "\974 at line 17
+[trace] Parsed [Header 2 ("narrative",[],[]) [Str "Narrative"]] at line 19
+[trace] Parsed [Para [Str "This",Space,Str "is",Space,Str "my",Space,Str "n at line 21
+[trace] Parsed [Div ("",[],[("custom-style","Body Text")]) [Para [Str "This at line 23
+[trace] Parsed [RawBlock (Format "html") "<col style=\"width: 19%\" />"] at line 26
+[trace] Parsed [RawBlock (Format "html") "<col style=\"width: 28%\" />"] at line 27
+[trace] Parsed [RawBlock (Format "html") "<col style=\"width: 22%\" />"] at line 28
+[trace] Parsed [RawBlock (Format "html") "<col style=\"width: 29%\" />"] at line 29
+[trace] Parsed [RawBlock (Format "html") "<colgroup>",RawBlock (Format "htm at line 29
+[trace] Parsed [] at line 30
+[trace] Parsed [Plain [Str "Name/Title"]] at line 32
+[trace] Parsed [RawBlock (Format "html") "<th>",Plain [Str "Name/Title"],Ra at line 32
+[trace] Parsed [] at line 33
+[trace] Parsed [Plain [Str "Responsibilities"]] at line 33
+[trace] Parsed [RawBlock (Format "html") "<th>",Plain [Str "Responsibilitie at line 33
+[trace] Parsed [] at line 34
+[trace] Parsed [Plain [Str "Academic",Space,Str "Preparation"]] at line 34
+[trace] Parsed [RawBlock (Format "html") "<th>",Plain [Str "Academic",Space at line 34
+[trace] Parsed [] at line 35
+[trace] Parsed [Plain [Str "Professional",Space,Str "Experience"]] at line 35
+[trace] Parsed [RawBlock (Format "html") "<th>",Plain [Str "Professional",S at line 35
+[trace] Parsed [] at line 36
+[trace] Parsed [RawBlock (Format "html") "<tr class=\"header\">",RawBlock ( at line 36
+[trace] Parsed [] at line 37
+[trace] Parsed [RawBlock (Format "html") "<thead>",RawBlock (Format "html") at line 37
+[trace] Parsed [] at line 38
+[trace] Parsed [Plain [Span ("",[],[("data-custom-style","Link to Artifact  at line 41
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Span ("",[],[("data-c at line 41
+[trace] Parsed [] at line 42
+[trace] Parsed [Plain [Span ("",[],[("data-custom-style","Link to Artifact  at line 43
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Span ("",[],[("data-c at line 43
+[trace] Parsed [RawBlock (Format "html") "<td>",RawBlock (Format "html") "< at line 43
+[trace] Parsed [] at line 44
+[trace] Parsed [Plain [Str "Provides",Space,Str "leadership",Space,Str "and at line 47
+[trace] Parsed [RawBlock (Format "html") "<td>",Plain [Str "Provides",Space at line 47
+[trace] Parsed [] at line 48
+[trace] Parsed [Plain [Str "Ed.D.",Space,Str "(2023),",Space,Str "NC",Space at line 48
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Str "Ed.D.",Space,Str at line 48
+[trace] Parsed [] at line 49
+[trace] Parsed [Plain [Str "M.S.",Space,Str "(2012),",Space,Str "UNC"]] at line 49
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Str "M.S.",Space,Str  at line 49
+[trace] Parsed [] at line 50
+[trace] Parsed [Plain [Str "B.S.",Space,Str "(2010),",Space,Str "UNCW"]] at line 50
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Str "B.S.",Space,Str  at line 50
+[trace] Parsed [RawBlock (Format "html") "<td>",RawBlock (Format "html") "< at line 50
+[trace] Parsed [] at line 51
+[trace] Parsed [Plain [Str "President,",Space,Str "January",Space,Str "2023 at line 52
+[trace] Parsed [RawBlock (Format "html") "<td>",Plain [Str "President,",Spa at line 52
+[trace] Parsed [] at line 53
+[trace] Parsed [RawBlock (Format "html") "<tr class=\"odd\">",RawBlock (For at line 53
+[trace] Parsed [] at line 54
+[trace] Parsed [Plain [Span ("",[],[("data-custom-style","Link to Artifact  at line 56
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Span ("",[],[("data-c at line 56
+[trace] Parsed [] at line 57
+[trace] Parsed [Plain [Span ("",[],[("data-custom-style","Link to Artifact  at line 59
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Span ("",[],[("data-c at line 59
+[trace] Parsed [RawBlock (Format "html") "<td>",RawBlock (Format "html") "< at line 59
+[trace] Parsed [] at line 60
+[trace] Parsed [Plain [Str "Provides",Space,Str "leadership",Space,Str "in" at line 63
+[trace] Parsed [RawBlock (Format "html") "<td>",Plain [Str "Provides",Space at line 63
+[trace] Parsed [] at line 64
+[trace] Parsed [Plain [Str "Ph.D.\160(2020),",Space,Str "NC",Space,Str "Sta at line 64
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Str "Ph.D.\160(2020), at line 64
+[trace] Parsed [] at line 65
+[trace] Parsed [Plain [Str "M.S.",Space,Str "(2016),",Space,Str "UNC"]] at line 65
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Str "M.S.",Space,Str  at line 65
+[trace] Parsed [] at line 66
+[trace] Parsed [Plain [Str "B.S.",Space,Str "(2004),"]] at line 66
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Str "B.S.",Space,Str  at line 66
+[trace] Parsed [] at line 67
+[trace] Parsed [Plain [Str "Duke"]] at line 67
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Str "Duke"],RawBlock  at line 67
+[trace] Parsed [RawBlock (Format "html") "<td>",RawBlock (Format "html") "< at line 67
+[trace] Parsed [] at line 68
+[trace] Parsed [Plain [Str "Executive",Space,Str "Vice",Space,Str "Presiden at line 69
+[trace] Parsed [RawBlock (Format "html") "<td>",Plain [Str "Executive",Spac at line 69
+[trace] Parsed [] at line 70
+[trace] Parsed [RawBlock (Format "html") "<tr class=\"even\">",RawBlock (Fo at line 70
+[trace] Parsed [] at line 71
+[trace] Parsed [Plain [Span ("",[],[("data-custom-style","Link to Artifact  at line 73
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Span ("",[],[("data-c at line 73
+[trace] Parsed [] at line 74
+[trace] Parsed [Plain [Span ("",[],[("data-custom-style","Link to Artifact  at line 75
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Span ("",[],[("data-c at line 75
+[trace] Parsed [RawBlock (Format "html") "<td>",RawBlock (Format "html") "< at line 75
+[trace] Parsed [] at line 76
+[trace] Parsed [Plain [Str "Responsible",Space,Str "for",Space,Str "the",Sp at line 78
+[trace] Parsed [RawBlock (Format "html") "<td>",Plain [Str "Responsible",Sp at line 78
+[trace] Parsed [] at line 79
+[trace] Parsed [Plain [Str "B.S.B.A.",Space,Str "(2006),",Space,Str "NC",Sp at line 79
+[trace] Parsed [RawBlock (Format "html") "<td>",Plain [Str "B.S.B.A.",Space at line 79
+[trace] Parsed [] at line 80
+[trace] Parsed [Plain [Str "Vice",Space,Str "President",Space,Str "of",Spac at line 80
+[trace] Parsed [RawBlock (Format "html") "<td>",Plain [Str "Vice",Space,Str at line 80
+[trace] Parsed [] at line 81
+[trace] Parsed [RawBlock (Format "html") "<tr class=\"odd\">",RawBlock (For at line 81
+[trace] Parsed [] at line 82
+[trace] Parsed [Plain [Span ("",[],[("data-custom-style","Link to Artifact  at line 84
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Span ("",[],[("data-c at line 84
+[trace] Parsed [] at line 85
+[trace] Parsed [Plain [Span ("",[],[("data-custom-style","Link to Artifact  at line 86
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Span ("",[],[("data-c at line 86
+[trace] Parsed [RawBlock (Format "html") "<td>",RawBlock (Format "html") "< at line 86
+[trace] Parsed [] at line 87
+[trace] Parsed [Plain [Str "Responsible",Space,Str "for",Space,Str "the",Sp at line 87
+[trace] Parsed [RawBlock (Format "html") "<td>",Plain [Str "Responsible",Sp at line 87
+[trace] Parsed [] at line 88
+[trace] Parsed [Plain [Str "Ed.D.",Space,Str "(2010),",Space,Str "NC",Space at line 88
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Str "Ed.D.",Space,Str at line 88
+[trace] Parsed [] at line 89
+[trace] Parsed [Plain [Str "M.A.\160Ed.",Space,Str "(2003),",Space,Str "UNC at line 89
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Str "M.A.\160Ed.",Spa at line 89
+[trace] Parsed [] at line 90
+[trace] Parsed [Plain [Str "B.S.",Space,Str "(2002),",Space,Str "UNC"]] at line 90
+[trace] Parsed [RawBlock (Format "html") "<p>",Plain [Str "B.S.",Space,Str  at line 90
+[trace] Parsed [RawBlock (Format "html") "<td>",RawBlock (Format "html") "< at line 90
+[trace] Parsed [] at line 91
+[trace] Parsed [Plain [Str "Director",Space,Str "of",Space,Str "Institution at line 91
+[trace] Parsed [RawBlock (Format "html") "<td>",Plain [Str "Director",Space at line 91
+[trace] Parsed [] at line 92
+[trace] Parsed [RawBlock (Format "html") "<tr class=\"even\">",RawBlock (Fo at line 92
+[trace] Parsed [] at line 93
+[trace] Parsed [RawBlock (Format "html") "<tbody>",RawBlock (Format "html") at line 93
+[trace] Parsed [] at line 94
+[trace] Parsed [RawBlock (Format "html") "<table>",RawBlock (Format "html") at line 94
+[trace] Parsed [] at line 96
+[trace] Parsed [Header 3 ("distance-learning-and-off-campus-instructional-s at line 98
+[trace] Parsed [Para [Str "The",Space,Str "Director",Space,Str "of",Space,S at line 102
+[trace] Parsed [Div ("",[],[("custom-style","Body Text")]) [Para [Str "The" at line 104
+[trace] Parsed [Header 2 ("conclusion",[],[]) [Str "Conclusion"]] at line 106
+[trace] Parsed [Para [Str "The",Space,Str "College",Space,Str "employs",Spa at line 110
+[trace] Parsed [Div ("",[],[("custom-style","Body Text")]) [Para [Str "The" at line 112
+[trace] Parsed [Header 2 ("sources",[],[]) [Str "Sources"]] at line 114
+[trace] Parsed [Para [Span ("",[],[("custom-style","Sources")]) [Str "All", at line 120
+[trace] Parsed [Para [Span ("",["hidden"],[("render-id","quarto-int-sidebar at line 132
+[trace] Parsed [Para [Str "College",Space,Str "Home",Space,Str "Page"]] at line 134
+[trace] Parsed [Div ("",["hidden"],[("render-id","footer-left-https://www.c at line 136
+[trace] Parsed [Div ("quarto-navigation-envelope",["hidden"],[]) [Para [Spa at line 140
+[trace] Parsed [Para [Span ("",["hidden"],[("render-id","quarto-metatitle") at line 147
+[trace] Parsed [Div ("quarto-meta-markdown",["hidden"],[]) [Para [Span ("", at line 151
+(D) accreditation: [link_to_artifact_style]:  [R] -  Dr. Person One
+(D) accreditation: [link_to_artifact_style]: Check Span: 
+(D) accreditation: [link_to_artifact_style]:     ...content: [Str "Dr.\160Person",SoftBreak,Str "One"]
+(D) accreditation: [link_to_artifact_style]:     ...attributes: ("",[],[("data-custom-style","Link to Artifact - Resume")])
+(D) accreditation: [link_to_artifact_style]:     [R]...evidence_txt: Dr. Person One
+(D) accreditation: [link_to_artifact_style]:     ...evidence: Dr. Person One - Resume - Dr. Person One.pdf  -  
+(D) accreditation: [link_to_artifact_style]:     ...dir_str: ..    -    C:\tmp\CR_TEST\quarto_error_2406    -    C:\tmp\CR_TEST\quarto_error_2406\requirements\Standard 05.4.qmd
+(D) accreditation: [link_to_artifact_style]:     ...dir_str: ../documents
+(D) accreditation: [link_to_artifact_style]:     ...evidence: Dr. Person One - Resume - Dr. Person One.pdf  -  
+(D) accreditation: [make_link]:     ...parms: [../documents/] - [Resume - Dr. Person One.pdf] - [] - [Dr. Person One]
+(D) accreditation: [make_link]:     ...rtn_str: <a href="../documents/Resume - Dr. Person One.pdf"  >Dr. Person One</a>
+(D) accreditation: [link_to_artifact_style]:     ...rtn_str: <a href="../documents/Resume - Dr. Person One.pdf"  >Dr. Person One</a>
+(D) accreditation: [link_to_artifact_style]:  [R] -  Person Two
+(D) accreditation: [link_to_artifact_style]: Check Span: 
+(D) accreditation: [link_to_artifact_style]:     ...content: [Str "Person",SoftBreak,Str "Two"]
+(D) accreditation: [link_to_artifact_style]:     ...attributes: ("",[],[("data-custom-style","Link to Artifact - Resume")])
+(D) accreditation: [link_to_artifact_style]:     [R]...evidence_txt: Person Two
+(D) accreditation: [link_to_artifact_style]:     ...evidence: Person Two - Resume - Person Two.pdf  -  
+(D) accreditation: [link_to_artifact_style]:     ...dir_str: ..    -    C:\tmp\CR_TEST\quarto_error_2406    -    C:\tmp\CR_TEST\quarto_error_2406\requirements\Standard 05.4.qmd
+(D) accreditation: [link_to_artifact_style]:     ...dir_str: ../documents
+(D) accreditation: [link_to_artifact_style]:     ...evidence: Person Two - Resume - Person Two.pdf  -  
+(D) accreditation: [make_link]:     ...parms: [../documents/] - [Resume - Person Two.pdf] - [] - [Person Two]
+(D) accreditation: [make_link]:     ...rtn_str: <a href="../documents/Resume - Person Two.pdf"  >Person Two</a>
+(D) accreditation: [link_to_artifact_style]:     ...rtn_str: <a href="../documents/Resume - Person Two.pdf"  >Person Two</a>
+(D) accreditation: [link_to_artifact_style]:  [R] -  Person. Three
+(D) accreditation: [link_to_artifact_style]: Check Span: 
+(D) accreditation: [link_to_artifact_style]:     ...content: [Str "Person.",SoftBreak,Str "Three"]
+(D) accreditation: [link_to_artifact_style]:     ...attributes: ("",[],[("data-custom-style","Link to Artifact - Resume")])
+(D) accreditation: [link_to_artifact_style]:     [R]...evidence_txt: Person. Three
+(D) accreditation: [link_to_artifact_style]:     ...evidence: Person. Three - Resume - Person. Three.pdf  -  
+(D) accreditation: [link_to_artifact_style]:     ...dir_str: ..    -    C:\tmp\CR_TEST\quarto_error_2406    -    C:\tmp\CR_TEST\quarto_error_2406\requirements\Standard 05.4.qmd
+(D) accreditation: [link_to_artifact_style]:     ...dir_str: ../documents
+(D) accreditation: [link_to_artifact_style]:     ...evidence: Person. Three - Resume - Person. Three.pdf  -  
+(D) accreditation: [make_link]:     ...parms: [../documents/] - [Resume - Person. Three.pdf] - [] - [Person. Three]
+(D) accreditation: [make_link]:     ...rtn_str: <a href="../documents/Resume - Person. Three.pdf"  >Person. Three</a>
+(D) accreditation: [link_to_artifact_style]:     ...rtn_str: <a href="../documents/Resume - Person. Three.pdf"  >Person. Three</a>
+(D) accreditation: [link_to_artifact_style]:  [R] -  Dr. Person Four
+(D) accreditation: [link_to_artifact_style]: Check Span: 
+(D) accreditation: [link_to_artifact_style]:     ...content: [Str "Dr.\160Person",SoftBreak,Str "Four"]
+(D) accreditation: [link_to_artifact_style]:     ...attributes: ("",[],[("data-custom-style","Link to Artifact - Resume")])
+(D) accreditation: [link_to_artifact_style]:     [R]...evidence_txt: Dr. Person Four
+(D) accreditation: [link_to_artifact_style]:     ...evidence: Dr. Person Four - Resume - Dr. Person Four.pdf  -  
+(D) accreditation: [link_to_artifact_style]:     ...dir_str: ..    -    C:\tmp\CR_TEST\quarto_error_2406    -    C:\tmp\CR_TEST\quarto_error_2406\requirements\Standard 05.4.qmd
+(D) accreditation: [link_to_artifact_style]:     ...dir_str: ../documents
+(D) accreditation: [link_to_artifact_style]:     ...evidence: Dr. Person Four - Resume - Dr. Person Four.pdf  -  
+(D) accreditation: [make_link]:     ...parms: [../documents/] - [Resume - Dr. Person Four.pdf] - [] - [Dr. Person Four]
+(D) accreditation: [make_link]:     ...rtn_str: <a href="../documents/Resume - Dr. Person Four.pdf"  >Dr. Person Four</a>
+(D) accreditation: [link_to_artifact_style]:     ...rtn_str: <a href="../documents/Resume - Dr. Person Four.pdf"  >Dr. Person Four</a>
+
+Output created: _site\index.html
+
